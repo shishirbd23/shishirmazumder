@@ -136,7 +136,7 @@ jalan("   \033[1;93m Welcome to Shishir Creations ")
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "shishir"
-CorrectPassword = "shishir"
+CorrectPassword = "shishir23"
 
 
 loop = 'true'
